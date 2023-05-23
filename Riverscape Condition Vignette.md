@@ -4,7 +4,7 @@
 --------
 **Author** - Jeff Anderson
 
-**Date** - May 12, 2023
+**Date** - May 23, 2023
 
 **Study Site(s)** - Kelvin Creek, Southwestern Vancouver Island, British Columbia
 
@@ -306,18 +306,17 @@ Can a reach-scale audit [RAP] of geoindicators [Table 1] detect riverscape chang
 
 ![AppdxA01](https://github.com/Geomorphic/Images/blob/e2563adf5f335d49ac5e60ecd78b088beb3e793d/AppdxA01_RivC0n_Vignette.png)
 
-![AppdxA01](https://github.com/Geomorphic/Images/blob/e2563adf5f335d49ac5e60ecd78b088beb3e793d/AppdxA02_RivCon_Vignette.png)
+![AppdxA02](https://github.com/Geomorphic/Images/blob/e2563adf5f335d49ac5e60ecd78b088beb3e793d/AppdxA02_RivC0n_Vignette.png)
 
-![AppdxA01](https://github.com/Geomorphic/Images/blob/e2563adf5f335d49ac5e60ecd78b088beb3e793d/AppdxA03_RivCon_Vignette.png)
+![AppdxA03](https://github.com/Geomorphic/Images/blob/e2563adf5f335d49ac5e60ecd78b088beb3e793d/AppdxA03_RivC0n_Vignette.png)
 
-![AppdxA01](https://github.com/Geomorphic/Images/blob/e2563adf5f335d49ac5e60ecd78b088beb3e793d/AppdxA04_RivCon_Vignette.png)
+![AppdxA04](https://github.com/Geomorphic/Images/blob/e2563adf5f335d49ac5e60ecd78b088beb3e793d/AppdxA04_RivC0n_Vignette.png)
 
-![AppdxA01](https://github.com/Geomorphic/Images/blob/e2563adf5f335d49ac5e60ecd78b088beb3e793d/AppdxA05_RivCon_Vignette.png)
+![AppdxA05](https://github.com/Geomorphic/Images/blob/e2563adf5f335d49ac5e60ecd78b088beb3e793d/AppdxA05_RivC0n_Vignette.png)
 
-![AppdxA01](https://github.com/Geomorphic/Images/blob/e2563adf5f335d49ac5e60ecd78b088beb3e793d/AppdxA06_RivCon_Vignette.png)
+![AppdxA06](https://github.com/Geomorphic/Images/blob/e2563adf5f335d49ac5e60ecd78b088beb3e793d/AppdxA06_RivC0n_Vignette.png)
 
-![AppdxA01](https://github.com/Geomorphic/Images/blob/e2563adf5f335d49ac5e60ecd78b088beb3e793d/AppdxA07_RivCon_Vignette.png)
-
+![AppdxA07](https://github.com/Geomorphic/Images/blob/e2563adf5f335d49ac5e60ecd78b088beb3e793d/AppdxA07_RivC0n_Vignette.png)
 
 
 
@@ -328,7 +327,7 @@ Can a reach-scale audit [RAP] of geoindicators [Table 1] detect riverscape chang
 
 
 
-![AppdxB01](Images/AppdxB01_RivCon_Vignette.png)
+![AppdxB01](https://github.com/Geomorphic/Images/blob/e2563adf5f335d49ac5e60ecd78b088beb3e793d/AppdxB01_RivC0n_Vignette.png)
 
 
 
