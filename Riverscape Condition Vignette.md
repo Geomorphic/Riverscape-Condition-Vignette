@@ -132,7 +132,7 @@ By integrating the above emergent ideas in riverscape science with RiverRAFTs mu
 ## Preliminary Results
 The project stream is located on southeastern Vancouver Island, British Columbia (Figure 1). The watershed ranges in elevation from sea level to 1800 metres. It contains several geologic groups, with 90% of the watershed underlain by the Island Plutonic Suite and Nanaimo Group. Overlying vegetation in the upper watershed Coastal Western Hemlock with Coastal Douglas-fir in the lower watershed. Kelvin Creek is a third order stream (Figure 3) with historic Coho salmon and Steelhead populations, which are now in delcine.   
 
-![Figure01](Images/Figure01_RivCon_Vignette.png)
+![Figure01](https://github.com/Geomorphic/Images/blob/e2563adf5f335d49ac5e60ecd78b088beb3e793d/Figure01_RivCon_Vignette.png)
 
 **Figure 1** - Southeastern Vancouver Island showing the location of the Kelvin Creek Watershed. 
 
@@ -142,7 +142,7 @@ The project stream is located on southeastern Vancouver Island, British Columbia
 
 Riverscape character is based on several inputs including the: (i) River Styles Framework (RSF; Brierley and Fryirs, 2005), (ii) longitudinal profile, (iii) reach cross sections, and (iv) reach-scale assemblages of geomorphic units. Each are presented below. 
 
-![Figure02](Images/Figure02_RivCon_Vignette.png)
+![Figure02](https://github.com/Geomorphic/Images/blob/e2563adf5f335d49ac5e60ecd78b088beb3e793d/Figure02_RivCon_Vignette.png)
 
 **Figure 2** - Kelvin Creek, British Columbia showing low-flow condition. 
 
@@ -150,7 +150,7 @@ Riverscape character is based on several inputs including the: (i) River Styles 
 
 Drawing from the RSF, valley and confining margins were mapped which demonstrates that confining margins are frequent in lower Kelvin Creek (Figure 3). 
 
-![Figure03](Images/Figure03_RivCon_Vignette.png)
+![Figure03](https://github.com/Geomorphic/Images/blob/e2563adf5f335d49ac5e60ecd78b088beb3e793d/Figure03_RivCon_Vignette.png)
 
 **Figure 3** - Kelvin Creek showing valley and confining margins. 
 
@@ -158,7 +158,7 @@ Drawing from the RSF, valley and confining margins were mapped which demonstrate
 
 Applying the RSF, valley setting, geomorphic setting, and valley configuration are each presented in Figure 4; with the addition of two additional metrics including: (i) assemblages of geomorphic units, and (ii) a longitudinal profile. Similar to a RSF Performa, Figure 4 demonstrates that [reach 1 of] Kelvin Creek lies within a larger valley setting, contains an inactive floodplain on river right, has levees on both sides, is a similar slope to upstream reaches, and is dominated by run / glide habitat with a cobble-gravel bed. 
 
-![Figure04](Images/Figure04_RivCon_Vignette.png)
+![Figure04](https://github.com/Geomorphic/Images/blob/e2563adf5f335d49ac5e60ecd78b088beb3e793d/Figure04_RivCon_Vignette.png)
 
 **Figure 4** - Kelvin Creek, British Columbia showing various components of riverscape character. 
 
@@ -166,7 +166,7 @@ Applying the RSF, valley setting, geomorphic setting, and valley configuration a
 
 One of the outputs of the RSF is valley setting, which ascribes a valley confinement classification scheme (O'Brien et al., 2019) to each reach. Applying this to Kelvin Creek reveals that lower Kelvin Creek has a high percentage of either partially confined or fully confined reaches (Figure 5). 
 
-![Figure05](Images/Figure05_RivCon_Vignette.png)
+![Figure05](https://github.com/Geomorphic/Images/blob/e2563adf5f335d49ac5e60ecd78b088beb3e793d/Figure05_RivCon_Vignette.png)
 
 **Figure 5** - Kelvin Creek showing valley margins and valley setting. This figure shows that Kelvin Creek is partially confined (or fully confined) throughout a majority of the lower watershed. 
 
@@ -174,7 +174,7 @@ One of the outputs of the RSF is valley setting, which ascribes a valley confine
 
 An additional output of the RSF is geomorphic setting, which outlines source, transport and response reaches. Lower Kelvin Creek alternates frequently between transport and response reaches (Figure 6). 
 
-![Figure06](Images/Figure06_RivCon_Vignette.png)
+![Figure06](https://github.com/Geomorphic/Images/blob/e2563adf5f335d49ac5e60ecd78b088beb3e793d/Figure06_RivCon_Vignette.png)
 
 **Figure 6** - Kelvin Creek geomorphic setting. This figure shows lower Kelvin Creek alternates between transport and response. 
 
@@ -198,7 +198,7 @@ Riverscape condition in lower Kelvin Creek (Reaches 1-7) was moderate to poor (T
 
 **Table 1** - Kelvin Creek, British Columbia showing geoindicators along with the resultant riverscape condition. 
 
-![Table1](Images/Table01_RivCon_Vignette.png)
+![Table1](https://github.com/Geomorphic/Images/blob/e2563adf5f335d49ac5e60ecd78b088beb3e793d/Table01_RivCon_Vignette.png)
 
 
 
@@ -208,7 +208,7 @@ Riverscape condition in lower Kelvin Creek (Reaches 1-7) was moderate to poor (T
 
 **Table 2** - Kelvin Creek, British Columbia showing Riverscape Condition Questionnaire summary. 
 
-![Table2](Images/Table02_RivCon_Vignette.png)
+![Table2](https://github.com/Geomorphic/Images/blob/e2563adf5f335d49ac5e60ecd78b088beb3e793d/Table02_RivCon_Vignette.png)
 
 
 
@@ -222,7 +222,7 @@ The RPS program was designed to compare watershed condition with its' restorabil
 
 **Adjustment Capacity** - Adjustment capacity follows the principles in RSF with respect to river character and geomorphic condition; and adds riverscape condition [as described above] to inform the adjustment capacity of the riverscape. Thus, by integrating field-based data on reach / Performa condition, efficient and effective decisions can be made on recovery potential.   
 
-![Figure07](Images/Figure07_RivCon_Vignette.png)
+![Figure07](https://github.com/Geomorphic/Images/blob/e2563adf5f335d49ac5e60ecd78b088beb3e793d/Figure07_RivCon_Vignette.png)
 
 **Figure 7** - Kelvin Creek showing adjustment capacity. 
 
@@ -234,7 +234,7 @@ The recovery potential of Reach 1[Kelvin Creek] is restricted to active floodpla
 
 
 
-![Figure08](Images/Figure08_RivCon_Vignette.png)
+![Figure08](https://github.com/Geomorphic/Images/blob/e2563adf5f335d49ac5e60ecd78b088beb3e793d/Figure08_RivCon_Vignette.png)
 
 **Figure 8** - Kelvin Creek showing valley margins, geomorphic units, and recovery potential. 
 
@@ -304,19 +304,19 @@ Can a reach-scale audit [RAP] of geoindicators [Table 1] detect riverscape chang
 
 
 
-![AppdxA01](Images/AppdxA01_RivCon_Vignette.png)
+![AppdxA01](https://github.com/Geomorphic/Images/blob/e2563adf5f335d49ac5e60ecd78b088beb3e793d/AppdxA01_RivC0n_Vignette.png)
 
-![AppdxA01](Images/AppdxA02_RivCon_Vignette.png)
+![AppdxA01](https://github.com/Geomorphic/Images/blob/e2563adf5f335d49ac5e60ecd78b088beb3e793d/AppdxA02_RivCon_Vignette.png)
 
-![AppdxA01](Images/AppdxA03_RivCon_Vignette.png)
+![AppdxA01](https://github.com/Geomorphic/Images/blob/e2563adf5f335d49ac5e60ecd78b088beb3e793d/AppdxA03_RivCon_Vignette.png)
 
-![AppdxA01](Images/AppdxA04_RivCon_Vignette.png)
+![AppdxA01](https://github.com/Geomorphic/Images/blob/e2563adf5f335d49ac5e60ecd78b088beb3e793d/AppdxA04_RivCon_Vignette.png)
 
-![AppdxA01](Images/AppdxA05_RivCon_Vignette.png)
+![AppdxA01](https://github.com/Geomorphic/Images/blob/e2563adf5f335d49ac5e60ecd78b088beb3e793d/AppdxA05_RivCon_Vignette.png)
 
-![AppdxA01](Images/AppdxA06_RivCon_Vignette.png)
+![AppdxA01](https://github.com/Geomorphic/Images/blob/e2563adf5f335d49ac5e60ecd78b088beb3e793d/AppdxA06_RivCon_Vignette.png)
 
-![AppdxA01](Images/AppdxA07_RivCon_Vignette.png)
+![AppdxA01](https://github.com/Geomorphic/Images/blob/e2563adf5f335d49ac5e60ecd78b088beb3e793d/AppdxA07_RivCon_Vignette.png)
 
 
 
